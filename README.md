@@ -1,4 +1,4 @@
-#FaceDetection
+# FaceDetection
 
 A simple app for detecting a face in a picture. Right now, the detection is limited to one face in a picture but the idea is to have it detect all the faces present. The app uses React for front end, Node + Express for backend and PostgreSQL for database.
 
