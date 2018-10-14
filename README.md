@@ -1,6 +1,8 @@
 # FaceDetection
 
 This project is inspired by a research project during my undergrad involving face matching & sentiment extraction in real-time. Since the source code for the original project is proprietary, this is an attempt to build a modern React app that does the same. 
+Currently the app is available at: https://face-detection-frontend.herokuapp.com/
+App might be slow to load/respond because of free tier Heroku hosting.
 
 ### To-Do
 
@@ -8,12 +10,9 @@ Right now, the detection is limited to one face in a picture but the idea is to 
 
 ### Technologies
 
--> React.js for front end
--> Node + Express for backend
--> PostgreSQL for database.
-
-Currently the app is available at: https://face-detection-frontend.herokuapp.com/
-App might be slow to load/respond because of free tier Heroku hosting.
+* React.js for front end
+* Node + Express for backend
+* PostgreSQL for database.
 
 ### Login details
 
