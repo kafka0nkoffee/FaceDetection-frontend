@@ -4,6 +4,10 @@ This project is inspired by a research project during my undergrad involving fac
 Currently the app is available at: https://face-detection-frontend.herokuapp.com/
 App might be slow to load/respond because of free tier Heroku hosting.
 
+### Demo
+
+![](faceDetection.gif)
+
 ### To-Do
 
 Right now, the detection is limited to one face in a picture but the idea is to have it detect all the faces present and consequently detect faces in moving images i.e. videos.
