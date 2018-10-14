@@ -1,6 +1,10 @@
 # FaceDetection
 
-A simple REACT app for detecting a face in a picture. Right now, the detection is limited to one face in a picture but the idea is to have it detect all the faces present. 
+This project is inspired by a research project during my undergrad involving face matching & sentiment extraction in real-time. Since the source code for the original project is proprietary, this is an attempt to build a modern React app that does the same. 
+
+### To-Do
+
+Right now, the detection is limited to one face in a picture but the idea is to have it detect all the faces present and consequently detect faces in moving images i.e. videos.
 
 ### Technologies
 
@@ -25,3 +29,6 @@ If you want to run this app on your local machine:
 2. Run npm install
 3. Run npm start
 4. Go to the backend repo (https://github.com/kikku2506/FaceDetectionAPI) and repeat the same steps.
+
+
+
