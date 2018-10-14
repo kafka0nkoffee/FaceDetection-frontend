@@ -8,9 +8,9 @@ Right now, the detection is limited to one face in a picture but the idea is to 
 
 ### Technologies
 
-React.js for front end
-Node + Express for backend
-PostgreSQL for database.
+-> React.js for front end
+-> Node + Express for backend
+-> PostgreSQL for database.
 
 Currently the app is available at: https://face-detection-frontend.herokuapp.com/
 App might be slow to load/respond because of free tier Heroku hosting.
