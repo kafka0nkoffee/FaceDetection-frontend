@@ -1,6 +1,6 @@
 # FaceDetection
 
-This project is inspired by a research project during my undergrad involving face matching & sentiment extraction in real-time. Since the source code for the original project is proprietary, this is an attempt to build a modern React app that does the same. 
+This is my attempt at learning the React.js framework: a face detection app with user registration/login. 
 Currently the app is available at: https://face-detection-frontend.herokuapp.com/
 App might be slow to load/respond because of free tier Heroku hosting.
 
